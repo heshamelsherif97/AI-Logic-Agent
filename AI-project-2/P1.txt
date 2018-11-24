@@ -1,0 +1,5 @@
+8
+whi, emp, emp, whi,
+emp, obs, obs, whi, 
+emp, dra, emp, obs,
+obs, obs, emp, Jon,
